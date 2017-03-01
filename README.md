@@ -22,7 +22,7 @@ The Lumen framework is open-sourced software licensed under the [MIT license](ht
 
 You can now see on http://smartbus.esy.es how its working.
 
-### List API enable
+### List API (example enabled)
 | Method    | Url                                   | Controler@method          | Information           |
 |-----------|:-------------------------------------:|:-------------------------:|----------------------:|
 | GET       | http://smartbus.esy.es/user           | UserController@index      | User authenticate     |
